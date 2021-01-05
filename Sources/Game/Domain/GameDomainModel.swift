@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Genre
 
 public struct GameDomainModel {
   public var id: Int
